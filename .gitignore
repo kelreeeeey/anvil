@@ -20,3 +20,4 @@ odinfmt.json
 # windows' openblas lib
 anvil/lib/windows/openblas/
 flux-klein-model
+lib/windows/openblas/
